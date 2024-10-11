@@ -5,4 +5,12 @@
 
 ## NI LabVIEW Block Diagram Design
 
+![blockdiagram](block_diagram.png)
+
 ## NI LabVIEW Front Side
+
+![frontside](front_side.png)
+
+## Output on COM2
+
+![output](terminal_output.png)

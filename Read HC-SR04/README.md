@@ -1,3 +1,7 @@
+## Video
+
+https://github.com/user-attachments/assets/8a5363be-6210-4b5f-99e2-706c26db3156
+
 # Read the HC-SR04 Data with LabVIEW
 
 - In this project, distance data is read from the HC-SR04 sensor in real time. An Arduino is used to create a circuit that reads data from the HC-SR04.
@@ -16,6 +20,3 @@
 ![frontside](front_side_graph.png)
 ![frontside](front_side_error.png)
 
-## Video
-
-![output](front_side_video.mp4)
